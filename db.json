@@ -1,0 +1,32 @@
+{
+  "filmes": [
+    {
+      "id": 1,
+      "name": "As branquelas",
+      "gender": "Comédia",
+      "favorit": 0,
+      "image_url": "https://br.web.img3.acsta.net/medias/nmedia/18/97/52/82/20534159.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Nada de novo no front",
+      "gender": "Acao",
+      "favorit": 0,
+      "image_url": "https://www.metroworldnews.com.br/resizer/g--43gjB-W539MKnFE0SGtq_zVw=/800x0/filters:format(png):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/metroworldnews/4ONVBTKRMBGRVDFMOA6X5A2EDM.png"
+    },
+    {
+      "id": 3,
+      "name": "Oppenheimer",
+      "favorit": 1,
+      "gender": "Drama/Suspense",
+      "image_url": "https://marciatravessoni.com.br/wp-content/uploads/2023/05/Oppenheimer-saiba-quanto-tempo-de-durac%CC%A7a%CC%83o-tem-o-filme-1-1-647x1024.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "Harry Potter",
+      "gender": "Aventura",
+      "favorit": 0,
+      "image_url": "https://musicart.xboxlive.com/7/93e05000-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080"
+    }
+  ]
+}
